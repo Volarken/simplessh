@@ -1,5 +1,10 @@
 # simplessh
 SSH Server Management Made Easy
+
+Install with following command: 
+
+wget http://bit.do/simplessh -O vpn-detect.sh && bash vpn-detect.sh
+=====================================================================
 ##SimpleSSH, by RootPrivacy.com##
 
 Current Version: RELEASE 1.0
