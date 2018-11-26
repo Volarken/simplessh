@@ -3,7 +3,7 @@ SSH Server Management Made Easy
 
 Install with following command: 
 
-wget http://bit.do/simplessh -O vpn-detect.sh && bash vpn-detect.sh
+wget http://bit.do/simplessh -O simplessh.sh && bash simplessh.sh
 =====================================================================
 ##SimpleSSH, by RootPrivacy.com##
 
