@@ -17,4 +17,4 @@ All you have to do is add your servers via IP, Port, & Password, the information
 I made this script for personal use as I was getting tired of manually entering the IP/Pass every time I wanted to SSH into one of my
 billion servers, this script automates it and saves a lot of time. 
 
-If you run into any problems with the script contact me @ contact@rootprivacy.com
+If you run into any problems with the script contact me 
