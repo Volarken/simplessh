@@ -1,4 +1,8 @@
 # simplessh
+NO LONGER BEING UPDATED
+Please see https://github.com/Volarken/betterssh for new version!
+
+
 SSH Server Management Made Easy
 
 Install with following command: 
